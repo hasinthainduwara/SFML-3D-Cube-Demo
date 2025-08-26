@@ -1,6 +1,7 @@
 # 3D Rotating Cube - CMake Project
 
 A C++ project that renders a 3D rotating cube using SFML graphics library. The project demonstrates basic 3D mathematics including rotation matrices and perspective projection.
+![3D Rotating Cube Demo](rotate.gif)
 
 ## Project Overview
 

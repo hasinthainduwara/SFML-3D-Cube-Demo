@@ -1,7 +1,28 @@
-# 3D Rotating Cube - CMake Project
+# SFML-3D-Cube-Demo
 
 A C++ project that renders a 3D rotating cube using SFML graphics library. The project demonstrates basic 3D mathematics including rotation matrices and perspective projection.
 ![3D Rotating Cube Demo](rotate.gif)
+
+## 📚 Tutorial & Learning Resources
+
+### 🎯 **Step-by-Step Guide**
+For a comprehensive tutorial on building this project from scratch, check out our detailed guide:
+
+**[🚀 3D Engine Fundamentals with C++ ](https://medium.com/@hasinthainduwara/3d-engine-fundamentals-with-c-cdb5edcdaedf)**
+
+**[🚀From Math to Code: Rotation Matrices with C++ ](https://medium.com/@hasinthainduwara/from-math-to-code-rotation-matrices-with-c-47d1fd8f94a9)**
+
+
+*Learn how to:*
+- Set up SFML with CMake
+- Implement 3D rotation matrices
+- Create perspective projection
+- Build a complete 3D graphics application
+
+### 📖 **Additional Learning Materials**
+- **SFML Documentation**: [Official SFML Guide](https://www.sfml-dev.org/learn.php)
+- **CMake Tutorial**: [CMake Getting Started](https://cmake.org/cmake/help/latest/guide/tutorial/)
+- **3D Graphics Fundamentals**: Understanding rotation matrices and projection
 
 ## Project Overview
 
